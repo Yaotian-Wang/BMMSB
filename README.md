@@ -26,4 +26,4 @@ The 995 subjects' resting-state fMRI data we analyzed in our paper are from the 
 This toolbox does not contain the 1000 subjects' simulated data that we analyzed in our paper due to the large file size. Instead, it contains the true network structure of our simulated data (BMMSB\_A\_true\_S.mat). Users can generate the same simulated data that we analyzed in our paper by the function BMMSB\_generate\_Simu.m.
 
 ## Reference
-Yaotian Wang, Guofen Yan, Xiaofeng Wang, Shuoran Li, Lingyi Peng, Dana L Tudorascu, and Tingting Zhang (2022).  A Variational Bayesian Approach to Identifying Whole-Brain Directed Networks with fMRI Data, *The Annals of Applied Statistics*, accepted. 
+Yaotian Wang, Guofen Yan, Xiaofeng Wang, Shuoran Li, Lingyi Peng, Dana L Tudorascu, and Tingting Zhang (2023).  A Variational Bayesian Approach to Identifying Whole-Brain Directed Networks with fMRI Data, *The Annals of Applied Statistics*, 17(1): 518-538. 
